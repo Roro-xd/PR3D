@@ -111,7 +111,7 @@ ScriptedImporter:
       guid: 9fbaed7e8c69e78408335a722936b823
       position: {x: 125.24217, y: 0.000012046499, z: 0}
       rotation: {x: 0, y: 0, z: 0.8533946, w: 0.5212655}
-      length: 80.30804
+      length: 80.308014
       parentId: 1
       color:
         serializedVersion: 2
@@ -127,7 +127,7 @@ ScriptedImporter:
         rgba: 4278255488
     - name: piernaizq1
       guid: 51192c0155a458d40be8b48c3e968f7f
-      position: {x: -13.621203, y: -36.97201, z: 0}
+      position: {x: -13.621203, y: -36.97201, z: -5}
       rotation: {x: 0, y: 0, z: -0.9834281, w: 0.1812985}
       length: 136.42447
       parentId: 3
@@ -277,7 +277,7 @@ ScriptedImporter:
         boneIndex3: 3
     - position: {x: 178.12, y: 187.45801}
       boneWeight:
-        weight0: 0.99999994
+        weight0: 1
         weight1: 0
         weight2: 0
         weight3: 0
@@ -476,7 +476,7 @@ ScriptedImporter:
         boneIndex2: 3
         boneIndex3: 3
     spritePhysicsOutline: []
-    indices: 000000000300000001000000000000000400000003000000000000002000000004000000010000000300000002000000040000002000000005000000050000001c00000006000000050000001e0000001c000000050000001f0000001e00000005000000200000001f000000060000001b00000007000000060000001c0000001b000000070000001900000008000000070000001a00000019000000070000001b0000001a000000080000001800000009000000080000001900000018000000090000000b0000000a00000009000000180000000b0000000b000000180000000c0000000c000000170000000d0000000c00000018000000170000000d000000160000000e0000000d00000017000000160000000e000000150000000f0000000e00000016000000150000000f00000011000000100000000f00000015000000110000001100000015000000120000001200000014000000130000001200000015000000140000001c0000001e0000001d000000
+    indices: 0c000000170000000d0000000d00000017000000160000000d000000160000000e0000000e00000016000000150000000c00000018000000170000000e000000150000000f0000000b000000180000000c0000000f00000015000000110000001200000015000000140000001100000015000000120000000f000000110000001000000012000000140000001300000009000000180000000b000000090000000b0000000a000000080000001800000009000000080000001900000018000000070000001900000008000000070000001a00000019000000070000001b0000001a000000050000001c000000060000000000000004000000030000000000000020000000040000000100000003000000020000000400000020000000050000001c0000001e0000001d000000050000001e0000001c000000050000001f0000001e00000005000000200000001f000000060000001b00000007000000060000001c0000001b000000000000000300000001000000
     edges:
     - {x: 0, y: 1}
     - {x: 0, y: 32}
@@ -547,7 +547,7 @@ ScriptedImporter:
         rgba: 4294901760
     - name: piernadcha1
       guid: c553eaff798b1fc458c218f51ab9e5fd
-      position: {x: 64.59515, y: 241.9212, z: 0}
+      position: {x: 64.59515, y: 241.9212, z: 5}
       rotation: {x: 0, y: 0, z: -0.5634885, w: 0.82612395}
       length: 130.62886
       parentId: -1
@@ -917,7 +917,7 @@ ScriptedImporter:
         boneIndex2: 0
         boneIndex3: 0
     spritePhysicsOutline: []
-    indices: 00000000020000000100000009000000190000000b0000000b000000180000000c0000000b00000019000000180000000c000000170000000d0000000c00000018000000170000000d000000160000000e0000000e000000150000000f000000050000001d0000001c0000000e00000016000000150000000f00000011000000100000000f0000001500000011000000110000001500000012000000120000001500000013000000130000001500000014000000090000000b0000000a000000080000001900000009000000070000001a00000019000000070000001900000008000000060000001c0000001b000000060000001b0000001a000000060000001a0000000700000005000000210000002000000005000000200000001d0000000d0000001700000016000000050000001c000000060000000400000022000000210000000400000021000000050000000300000023000000220000000300000022000000040000000000000023000000030000000000000003000000020000001d0000001f0000001e0000001d000000200000001f000000
+    indices: 000000000200000001000000000000002300000003000000030000002200000004000000030000002300000022000000040000002100000005000000050000001d0000001c000000040000002200000021000000060000001c0000001b0000001d0000001f0000001e0000001d000000200000001f00000005000000200000001d000000050000001c00000006000000050000002100000020000000000000000300000002000000060000001b0000001a000000060000001a00000007000000070000001a0000001900000007000000190000000800000008000000190000000900000009000000190000000b000000090000000b0000000a0000000b00000019000000180000000b000000180000000c0000000c00000018000000170000000c000000170000000d0000000d00000017000000160000000d000000160000000e0000000e00000016000000150000000e000000150000000f0000000f00000015000000110000001200000015000000130000001100000015000000120000001300000015000000140000000f0000001100000010000000
     edges:
     - {x: 0, y: 1}
     - {x: 0, y: 35}
@@ -973,7 +973,7 @@ ScriptedImporter:
     spriteBone:
     - name: brazoizq3
       guid: 6b8480084d88aeb42896f5fd3fc6e15f
-      position: {x: 102.98587, y: 0.00009061804, z: 0}
+      position: {x: 102.98608, y: 0.0000750491, z: 0}
       rotation: {x: 0, y: 0, z: -0.2054012, w: 0.9786779}
       length: 43.348133
       parentId: 1
@@ -984,7 +984,7 @@ ScriptedImporter:
       guid: 47a5f00eefa88f4498d1d3e2f40ebebb
       position: {x: 87.70024, y: -0.00007105307, z: 0}
       rotation: {x: 0, y: 0, z: -0.5169308, w: 0.8560272}
-      length: 102.98584
+      length: 102.98606
       parentId: 2
       color:
         serializedVersion: 2
@@ -1142,7 +1142,7 @@ ScriptedImporter:
         boneIndex3: 2
     - position: {x: 47.888, y: 234}
       boneWeight:
-        weight0: 0.7
+        weight0: 1
         weight1: 0
         weight2: 0
         weight3: 0
@@ -1152,7 +1152,7 @@ ScriptedImporter:
         boneIndex3: 2
     - position: {x: 27.673, y: 229.556}
       boneWeight:
-        weight0: 0.7
+        weight0: 1
         weight1: 0
         weight2: 0
         weight3: 0
@@ -1162,7 +1162,7 @@ ScriptedImporter:
         boneIndex3: 2
     - position: {x: 7.9609985, y: 215.529}
       boneWeight:
-        weight0: 0.7
+        weight0: 1
         weight1: 0
         weight2: 0
         weight3: 0
@@ -1172,7 +1172,7 @@ ScriptedImporter:
         boneIndex3: 2
     - position: {x: 1.9679984, y: 195.463}
       boneWeight:
-        weight0: 0.68
+        weight0: 1
         weight1: 0
         weight2: 0
         weight3: 0
@@ -1182,7 +1182,7 @@ ScriptedImporter:
         boneIndex3: 2
     - position: {x: 0.5649986, y: 185.24701}
       boneWeight:
-        weight0: 0.68
+        weight0: 1
         weight1: 0
         weight2: 0
         weight3: 0
@@ -1192,7 +1192,7 @@ ScriptedImporter:
         boneIndex3: 2
     - position: {x: 23.807999, y: 168.701}
       boneWeight:
-        weight0: 0.68
+        weight0: 1
         weight1: 0
         weight2: 0
         weight3: 0
@@ -1362,18 +1362,18 @@ ScriptedImporter:
     spriteBone:
     - name: brazodcha3
       guid: 6de14060a011dac40a4d1bf5a7a71fce
-      position: {x: 102.08509, y: 0.000015906862, z: 0}
-      rotation: {x: 0, y: 0, z: 0.18807267, w: 0.9821551}
-      length: 43.34808
+      position: {x: 102.085045, y: -0.000015055187, z: 0}
+      rotation: {x: 0, y: 0, z: 0.18807289, w: 0.98215514}
+      length: 43.348087
       parentId: 1
       color:
         serializedVersion: 2
         rgba: 4294967040
     - name: brazodcha2
       guid: aead55ca59e09b14bbddcfa43a8f74ad
-      position: {x: 103.90513, y: 0.000009812198, z: 0}
-      rotation: {x: 0, y: 0, z: 0.54662573, w: 0.8373771}
-      length: 102.085175
+      position: {x: 103.90509, y: -0.0000042831853, z: 0}
+      rotation: {x: 0, y: 0, z: 0.5466256, w: 0.83737713}
+      length: 102.08503
       parentId: 2
       color:
         serializedVersion: 2
@@ -1381,8 +1381,8 @@ ScriptedImporter:
     - name: brazodcha1
       guid: 9a6ed663723fd4e4c85199a6db36948c
       position: {x: 93.00183, y: 213.34845, z: 0}
-      rotation: {x: 0, y: 0, z: 0.9200331, w: -0.39184076}
-      length: 103.9051
+      rotation: {x: 0, y: 0, z: 0.9200331, w: -0.39184088}
+      length: 103.90511
       parentId: -1
       color:
         serializedVersion: 2
@@ -1591,8 +1591,8 @@ ScriptedImporter:
         boneIndex3: 2
     - position: {x: 31.695, y: 182.92}
       boneWeight:
-        weight0: 0.97
-        weight1: 0.029999971
+        weight0: 0.83
+        weight1: 0.17
         weight2: 0
         weight3: 0
         boneIndex0: 2
@@ -1788,8 +1788,8 @@ ScriptedImporter:
     - name: brazodcha1
       guid: 9a6ed663723fd4e4c85199a6db36948c
       position: {x: 46.70142, y: 96.32186, z: 0}
-      rotation: {x: 0, y: 0, z: 0.9276349, w: 0.37348852}
-      length: 103.90509
+      rotation: {x: 0, y: 0, z: 0.92763484, w: 0.3734884}
+      length: 103.905136
       parentId: 2
       color:
         serializedVersion: 2
@@ -1848,48 +1848,48 @@ ScriptedImporter:
         boneIndex3: 0
     - position: {x: 179.52899, y: 67.897995}
       boneWeight:
-        weight0: 0.83
-        weight1: 0.17000002
+        weight0: 1
+        weight1: 0
         weight2: 0
         weight3: 0
-        boneIndex0: 0
+        boneIndex0: 2
         boneIndex1: 2
         boneIndex2: 0
         boneIndex3: 0
     - position: {x: 186.742, y: 97.323}
       boneWeight:
-        weight0: 0.71000004
-        weight1: 0.28999996
+        weight0: 1
+        weight1: 0
         weight2: 0
         weight3: 0
-        boneIndex0: 0
+        boneIndex0: 2
         boneIndex1: 2
         boneIndex2: 0
         boneIndex3: 0
     - position: {x: 200.396, y: 125.265}
       boneWeight:
-        weight0: 0
-        weight1: 1
+        weight0: 1
+        weight1: 0
         weight2: 0
         weight3: 0
-        boneIndex0: 0
+        boneIndex0: 2
         boneIndex1: 2
         boneIndex2: 0
         boneIndex3: 0
     - position: {x: 216.685, y: 152.561}
       boneWeight:
-        weight0: 0
-        weight1: 1
+        weight0: 0.66999996
+        weight1: 0.33
         weight2: 0
         weight3: 0
-        boneIndex0: 1
-        boneIndex1: 2
+        boneIndex0: 2
+        boneIndex1: 1
         boneIndex2: 0
         boneIndex3: 0
     - position: {x: 233.328, y: 178.43}
       boneWeight:
-        weight0: 0
-        weight1: 1
+        weight0: 0.86
+        weight1: 0.14
         weight2: 0
         weight3: 0
         boneIndex0: 1
@@ -2488,7 +2488,7 @@ ScriptedImporter:
         rgba: 4278255360
     - name: piernadcha1
       guid: c553eaff798b1fc458c218f51ab9e5fd
-      position: {x: -18.485989, y: 45.72858, z: 0}
+      position: {x: -18.485989, y: 45.72858, z: 5}
       rotation: {x: 0, y: -0, z: -0.9826044, w: 0.18571116}
       length: 130.62886
       parentId: 0
@@ -2515,7 +2515,7 @@ ScriptedImporter:
         rgba: 4294902015
     - name: piernaizq1
       guid: 51192c0155a458d40be8b48c3e968f7f
-      position: {x: -13.621241, y: -36.972015, z: 0}
+      position: {x: -13.621241, y: -36.972015, z: -5}
       rotation: {x: 0, y: -0, z: -0.9834281, w: 0.18129843}
       length: 136.42453
       parentId: 0
@@ -2534,7 +2534,7 @@ ScriptedImporter:
     - name: piernaizq3
       guid: 9fbaed7e8c69e78408335a722936b823
       position: {x: 125.24217, y: 0.00002223353, z: 0}
-      rotation: {x: 0, y: 0, z: 0.8533947, w: 0.5212654}
+      rotation: {x: 0, y: 0, z: 0.8533946, w: 0.5212654}
       length: 80.30803
       parentId: 7
       color:
@@ -2553,14 +2553,14 @@ ScriptedImporter:
       guid: 47a5f00eefa88f4498d1d3e2f40ebebb
       position: {x: 87.70032, y: 0.000019510808, z: 0}
       rotation: {x: 0, y: 0, z: -0.5169308, w: 0.8560272}
-      length: 102.985825
+      length: 102.98605
       parentId: 9
       color:
         serializedVersion: 2
         rgba: 4294901888
     - name: brazoizq3
       guid: 6b8480084d88aeb42896f5fd3fc6e15f
-      position: {x: 102.98585, y: -0.0000057015814, z: 0}
+      position: {x: 102.98608, y: -0.000009738065, z: 0}
       rotation: {x: 0, y: 0, z: -0.2054011, w: 0.9786779}
       length: 43.34813
       parentId: 10
@@ -2570,25 +2570,25 @@ ScriptedImporter:
     - name: brazodcha1
       guid: 9a6ed663723fd4e4c85199a6db36948c
       position: {x: 46.70141, y: 96.32186, z: 0}
-      rotation: {x: 0, y: -0, z: 0.92763484, w: 0.3734885}
-      length: 103.905106
+      rotation: {x: 0, y: -0, z: 0.9276349, w: 0.3734884}
+      length: 103.90513
       parentId: 1
       color:
         serializedVersion: 2
         rgba: 4278255615
     - name: brazodcha2
       guid: aead55ca59e09b14bbddcfa43a8f74ad
-      position: {x: 103.90513, y: 0.0000050839963, z: 0}
-      rotation: {x: 0, y: 0, z: 0.5466257, w: 0.8373771}
-      length: 102.08518
+      position: {x: 103.90508, y: -0.000024774165, z: 0}
+      rotation: {x: 0, y: 0, z: 0.5466256, w: 0.8373772}
+      length: 102.085045
       parentId: 12
       color:
         serializedVersion: 2
         rgba: 4278255360
     - name: brazodcha3
       guid: 6de14060a011dac40a4d1bf5a7a71fce
-      position: {x: 102.08515, y: -0.0000010892027, z: 0}
-      rotation: {x: 0, y: 0, z: 0.18807273, w: 0.98215514}
+      position: {x: 102.08505, y: -0.000011148008, z: 0}
+      rotation: {x: 0, y: 0, z: 0.18807289, w: 0.98215514}
       length: 43.348087
       parentId: 13
       color:
